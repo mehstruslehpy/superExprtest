@@ -1,0 +1,2 @@
+- find out how to repeat in an expect script?
+- add more test arguments

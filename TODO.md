@@ -1,0 +1,14 @@
+- need to build list of broken arguments for analysis
+- troubleshoot infinite loops
+- need to work on more cleanly handling i-rules
+- add special identity relation?
+- write more testing tools
+- write better testing tools
+- add more test arguments from various logic books
+- need to put more thought into quantifier handling in general current approach is somewhat arbitrary 
+- need less randomization hopefully? (this might be unavoidable?)
+- pretty sure the translator is not foolproof either based on randomized tests off the lisp wff gen scriptss
+- long term: maybe add modal quantifiers?
+- write a psuedocode representation of the proof loop 
+- clean and refine expr library, too many comments, too much duplicate code, some other nastyness
+- long term: remove heredoc/expect requirements
